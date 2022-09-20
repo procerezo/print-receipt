@@ -1,0 +1,26 @@
+@media print {
+    @page {
+        margin: 0 auto;
+        sheet-size: 80mm 250mm;
+    }
+    .logo{
+        height: 100px;
+        width: 100px;
+    }
+    html {
+        direction: rtl;
+    }
+    html,body{
+        margin:0;
+        padding:0
+    }
+    #printContainer {
+        width: 250px;
+        margin: auto;
+        /*padding: 10px;*/
+        /*border: 2px dotted #000;*/
+        text-align: justify;
+    }
+
+   .text-center{text-align: center;}
+}
