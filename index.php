@@ -44,7 +44,7 @@
                 <td><b>15.7 USD</b></td>
             </tr>
             <tr>
-            <td> eco badge for waterless car washThe service at Detailing Knights is not only unmatched, it is also mobile, waterless and environmentally friendly. </td>
+            <td> eco badge for waterless washThe service at Detailing Knights is not only unmatched, it is also mobile, waterless and environmentally friendly. </td>
             <td></td>
         </tr>
         </table>
